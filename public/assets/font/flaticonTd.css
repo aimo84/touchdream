@@ -1,0 +1,115 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 03/02/2020 18:57
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.tdi {
+  display: inline-block;
+  font: normal normal normal 14px/1 Flaticon;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* makes the font 33% larger relative to the icon container */
+.tdi-lg {
+  font-size: 1.33333333em!important;
+  line-height: 0.75em!important;
+  vertical-align: -15%;
+}
+.tdi-2x {
+  font-size: 2em!important;
+}
+.tdi-3x {
+  font-size: 3em!important;
+}
+.tdi-4x {
+  font-size: 4em!important;
+}
+.tdi-5x {
+  font-size: 5em!important;
+}
+
+.tdi.left {
+  margin-right: .3em!important;
+}
+.tdi.right {
+  margin-left: .3em!important;
+}
+
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+  -webkit-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+.tdi-rotate-180 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2)";
+  -webkit-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+.tdi-rotate-270 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
+  -webkit-transform: rotate(270deg);
+  -ms-transform: rotate(270deg);
+  transform: rotate(270deg);
+}
+.tdi-flip-horizontal {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)";
+  -webkit-transform: scale(-1, 1);
+  -ms-transform: scale(-1, 1);
+  transform: scale(-1, 1);
+}
+.tdi-flip-vertical {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
+  -webkit-transform: scale(1, -1);
+  -ms-transform: scale(1, -1);
+  transform: scale(1, -1);
+}
+:root .tdi-rotate-90,
+:root .tdi-rotate-180,
+:root .tdi-rotate-270,
+:root .tdi-flip-horizontal,
+:root .tdi-flip-vertical {
+  filter: none;
+}
+
+.tdi-inverse {
+  color: #ffffff;
+}
+
+.tdi-car-race-circuit:before { content: "\f100"; }
+.tdi-destination:before { content: "\f101"; }
+.tdi-destination-1:before { content: "\f102"; }
+.tdi-sunset:before { content: "\f103"; }
+.tdi-las-vegas:before { content: "\f104"; }
+.tdi-las-vegas-1:before { content: "\f105"; }
+.tdi-las-vegas-2:before { content: "\f106"; }
+.tdi-raoul-duke:before { content: "\f107"; }
+.tdi-sports-car:before { content: "\f108"; }
+.tdi-sport-car:before { content: "\f109"; }
+.tdi-racing-car:before { content: "\f10a"; }
+.tdi-vip:before { content: "\f10b"; }
+.tdi-vip-1:before { content: "\f10c"; }
+.tdi-vip-2:before { content: "\f10d"; }
+.tdi-vip-3:before { content: "\f10e"; }
+.tdi-diamond:before { content: "\f10f"; }
+.tdi-cheers:before { content: "\f110"; }
+.tdi-wedding-rings:before { content: "\f111"; }
+.tdi-just-married:before { content: "\f112"; }
+.tdi-vote-yes:before { content: "\f113"; }
+.tdi-star:before { content: "\f114"; }
+.tdi-passion:before { content: "\f115"; }
+.tdi-star-1:before { content: "\f116"; }
